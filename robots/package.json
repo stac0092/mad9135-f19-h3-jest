@@ -1,0 +1,16 @@
+{
+  "name": "mackenzie",
+  "version": "1.0.0",
+  "description": "testing assignment",
+  "main": "index.js",
+  "repository": "https://github.com/stac0092/mad9135-f19-h3-jest",
+  "author": "Mack",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+
+  "scripts": {
+    "test": "jest"
+}
+}
